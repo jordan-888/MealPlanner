@@ -28,6 +28,7 @@ MealPlanner is a Vue.js-based application that helps users plan their meals for 
 
 ## Project Structure
 
+```
 MealPlanner/
 ├── src/
 │   ├── components/       # Reusable Vue components
@@ -41,7 +42,7 @@ MealPlanner/
 ├── README.md             # Project documentation
 ├── package.json          # Project metadata and dependencies
 └── vue.config.js         # Vue CLI configuration
-
+```
 
 ### Compiles and hot-reloads for development
 ```bash
