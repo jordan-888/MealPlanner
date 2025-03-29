@@ -62,3 +62,28 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork the repository**:
+   Click the "Fork" button at the top-right corner of the repository page on GitHub.
+
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+3. **Commit your changes**:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+
+4. **Push to your branch**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. **Open a pull request**:
+   Go to the original repository on GitHub, click the "Pull Requests" tab, and open a new pull request.
+
